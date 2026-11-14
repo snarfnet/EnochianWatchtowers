@@ -29,7 +29,7 @@ targets:
       path: App/Info.plist
       properties:
         CFBundleName: EnochianWatchtowers
-        CFBundleDisplayName: エノクの物見の塔
+        CFBundleDisplayName: Enochian Watchtowers
         CFBundleDevelopmentRegion: ja
         CFBundleLocalizations: [ja, en]
         CFBundleShortVersionString: "1.0"

@@ -37,6 +37,7 @@ struct TabletGrid: View {
         let isCross = Tablet.isGreatCross(cell)
         let letter = String(tablet.letter(cell))
         ZStack {
+            Rectangle().fill(Parchment.paper)   // the tints are translucent; keep them light on any background
             Rectangle().fill(fill(cell, isCross: isCross, highlighted: order != nil))
             if !compact || side > 9 {
                 Text(letter)

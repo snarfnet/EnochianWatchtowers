@@ -7,3 +7,4 @@ DerivedData/
 .omc/
 tools/ref/
 __pycache__/
+tools/shots/
