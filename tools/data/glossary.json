@@ -1,0 +1,140 @@
+{
+ "greatTable": {
+  "term": "Great Table",
+  "termJa": "大テーブル（グレート・テーブル）",
+  "en": "The large letter square that Edward Kelley scried for John Dee in Cracow on 25 June 1584. Four 12 x 13 tablets sit around a Black Cross, 25 x 27 squares in all.",
+  "ja": "1584年6月25日、クラクフでエドワード・ケリーが水晶の中に見て、ジョン・ディーが書き取った大きな文字盤です。縦13×横12の板4枚が黒い十字を囲み、全体で縦27×横25マスになります。"
+ },
+ "watchtower": {
+  "term": "Watchtower (Elemental Tablet)",
+  "termJa": "物見の塔（元素のタブレット）",
+  "en": "One of the four 12 x 13 tablets of the Great Table. The Golden Dawn ties each one to an element and a direction: Air-East, Water-West, Earth-North, Fire-South.",
+  "ja": "大テーブルを作る、縦13×横12の板4枚のひとつです。ゴールデン・ドーンは各板を元素と方角に結びつけました。風は東、水は西、地は北、火は南です。"
+ },
+ "tabulaRecensa": {
+  "term": "Tabula Recensa (Reformed Table, 1587)",
+  "termJa": "改訂テーブル（1587年）",
+  "en": "The corrected Great Table that the angel Raphael gave on 20 April 1587. It moves the tablets to new corners and changes some letters. The Golden Dawn tablets descend from it.",
+  "ja": "1587年4月20日に天使ラファエルが伝えた、直しの入った大テーブルです。4枚の配置が変わり、いくつかの文字も変わりました。ゴールデン・ドーンの板はこれがもとです。"
+ },
+ "doubleLetters": {
+  "term": "Double-letter squares",
+  "termJa": "二文字のマス",
+  "en": "Golden Dawn manuscripts print two or three letters in some squares. They merge readings from different versions of the table; Dee's own tables have one letter per square.",
+  "ja": "ゴールデン・ドーンの写本には、1マスに2〜3文字を書いた箇所があります。異なる版の読みをまとめたもので、ディー自身の表は1マス1文字です。"
+ },
+ "reversedLetters": {
+  "term": "Reversed letters",
+  "termJa": "裏返しの文字",
+  "en": "Eight letters are written mirror-reversed in Dee's table. Seven of them spell PARAOAN; the eighth is an L.",
+  "ja": "ディーの表には、鏡文字で書かれた文字が8つあります。そのうち7つでPARAOANと読め、残りの1つはLです。"
+ },
+ "blackCross": {
+  "term": "Black Cross",
+  "termJa": "黒い十字",
+  "en": "The one-square-wide cross that separates the four tablets in the Great Table. Its letters form the Tablet of Union.",
+  "ja": "大テーブルの4枚を区切る、幅1マスの十字です。ここの文字を並べ直すと「結合の板」になります。"
+ },
+ "tabletOfUnion": {
+  "term": "Tablet of Union",
+  "termJa": "結合の板（ユニオンのタブレット）",
+  "en": "A 4 x 5 table made from the Black Cross letters: EXARP, HCOMA, NANTA, BITOM. In the Golden Dawn each row belongs to one tablet and gives prefix letters for angel names.",
+  "ja": "黒い十字の文字で作った4行×5列の表です。EXARP、HCOMA、NANTA、BITOMの4行からなります。ゴールデン・ドーンでは各行が1枚の板に対応し、天使名の頭につける文字を出します。"
+ },
+ "greatCentralCross": {
+  "term": "Great Central Cross",
+  "termJa": "大中央十字",
+  "en": "The cross in the middle of each tablet: two columns (6th and 7th) and one row (7th). It splits the tablet into four sub-angles.",
+  "ja": "各板の中央にある十字です。縦の2列（6列目と7列目）と横の1行（7行目）でできていて、板を4つの小区画に分けます。"
+ },
+ "lineaPatris": {
+  "term": "Linea Patris",
+  "termJa": "父の線",
+  "en": "The 6th column of a tablet, the left upright of the Great Central Cross.",
+  "ja": "板の6列目、大中央十字の左側の縦線です。"
+ },
+ "lineaFilii": {
+  "term": "Linea Filii",
+  "termJa": "子の線",
+  "en": "The 7th column of a tablet, the right upright of the Great Central Cross.",
+  "ja": "板の7列目、大中央十字の右側の縦線です。"
+ },
+ "lineaSpiritusSancti": {
+  "term": "Linea Spiritus Sancti",
+  "termJa": "聖霊の線",
+  "en": "The 7th row of a tablet, the crossbar of the Great Central Cross. The Three Holy Names come from it.",
+  "ja": "板の7行目、大中央十字の横線です。3つの聖なる神名はここから取ります。"
+ },
+ "threeHolyNames": {
+  "term": "Three Holy Names of God",
+  "termJa": "3つの聖なる神名",
+  "en": "The Linea Spiritus Sancti cut into words of 3, 4 and 5 letters, such as ORO IBAH AOZPI for Air. They are carried on the three banners of the tablet and rule the King.",
+  "ja": "聖霊の線を3文字・4文字・5文字に区切った名前です。風の板ならORO IBAH AOZPIです。板の3本の旗に掲げられ、王を従えます。"
+ },
+ "greatKing": {
+  "term": "Great King (Elemental King)",
+  "termJa": "大いなる王（元素の王）",
+  "en": "An 8-letter name read in a whirl around the centre of the tablet, such as BATAIVAH. Dee used 7 letters and ended with either the A (mercy) or the H (judgement); the Golden Dawn keeps both.",
+  "ja": "板の中心をぐるりと回って読む8文字の名前です（例：BATAIVAH）。ディーは7文字で使い、最後をA（慈悲）かH（裁き）のどちらかにしました。ゴールデン・ドーンは両方を残しています。"
+ },
+ "sixSeniors": {
+  "term": "Six Seniors",
+  "termJa": "6人の長老",
+  "en": "Six 7-letter names read from the centre outward along the arms of the Great Central Cross. The four tablets hold 24, the elders of the Book of Revelation; the Golden Dawn gives each a planet.",
+  "ja": "大中央十字の腕を中心から外へ読む、7文字の名前6つです。4枚で24人になり、ヨハネの黙示録の24人の長老にあたります。ゴールデン・ドーンは1人ずつに惑星を割り当てました。"
+ },
+ "subAngle": {
+  "term": "Sub-angle (Lesser Angle)",
+  "termJa": "小区画（小アングル）",
+  "en": "One of the four 6 x 5 corners of a tablet left by the Great Central Cross. In the Golden Dawn, top-left is Air, top-right Water, bottom-left Earth, bottom-right Fire of that tablet's element.",
+  "ja": "大中央十字で分けた、板の四隅にある縦6×横5の区画です。ゴールデン・ドーンでは左上が風、右上が水、左下が地、右下が火の小区画になります（例：「水の板の風」）。"
+ },
+ "calvaryCross": {
+  "term": "Calvary Cross",
+  "termJa": "カルヴァリ十字",
+  "en": "The small cross of 10 squares inside each sub-angle. It gives two divine names that govern the angels of that sub-angle.",
+  "ja": "各小区画の中にある、10マスの小さな十字です。ここから、その区画の天使を治める神名が2つ取れます。"
+ },
+ "callingName": {
+  "term": "Calvary Cross name, 6 letters (vertical)",
+  "termJa": "カルヴァリ十字の縦の名（6文字）",
+  "en": "Read top to bottom down the upright of the Calvary Cross, such as IDOIGO. It calls the angels of the sub-angle to appear.",
+  "ja": "カルヴァリ十字の縦棒を上から下へ読む名前です（例：IDOIGO）。小区画の天使を呼び出すときに使います。"
+ },
+ "commandingName": {
+  "term": "Calvary Cross name, 5 letters (horizontal)",
+  "termJa": "カルヴァリ十字の横の名（5文字）",
+  "en": "Read left to right along the crossbar, such as ARDZA. It makes the called angels do what they are told.",
+  "ja": "横棒を左から右へ読む名前です（例：ARDZA）。呼び出した天使に命令を聞かせます。"
+ },
+ "kerubicAngels": {
+  "term": "Kerubic Angels",
+  "termJa": "ケルビムの天使",
+  "en": "Four names from the four squares above the Calvary Cross bar. The first is read left to right (RZLA); the other three move the first letter to the end each time (ZLAR, LARZ, ARZL).",
+  "ja": "カルヴァリ十字の横棒より上にある4マスから作る4つの名前です。1つ目は左から右へ読み（RZLA）、残りは先頭の文字を末尾へ回して作ります（ZLAR、LARZ、ARZL）。"
+ },
+ "kerubicRulingName": {
+  "term": "Kerubic ruling name (GD 'archangel')",
+  "termJa": "ケルビムを治める名（GDの「大天使」）",
+  "en": "The first kerubic name with one Tablet-of-Union letter in front: E for Air, H for Water, N for Earth, B for Fire (ERZLA). It rules the four kerubic angels. Dee chose the prefix letter differently.",
+  "ja": "1つ目のケルビム名の頭に、結合の板の文字を1つつけた名前です。風はE、水はH、地はN、火はBをつけます（例：ERZLA）。4人のケルビムを治めます。ディーは頭の文字を別の決め方で選んでいました。"
+ },
+ "servientAngels": {
+  "term": "Servient Angels (Lesser Angels)",
+  "termJa": "従属の天使（下位の天使）",
+  "en": "Four 4-letter names from the four rows under the Calvary Cross bar, skipping the upright, such as CZNS, TOTT, SIAS, FMND. Dee links each sub-angle's group to a skill such as medicine or metals.",
+  "ja": "カルヴァリ十字の横棒の下にある4行から、縦棒のマスを除いて読む4文字の名前です（例：CZNS、TOTT、SIAS、FMND）。ディーは小区画ごとに、医術や金属などの得意分野を割り当てました。"
+ },
+ "servientPrefixed": {
+  "term": "Prefixed servient names (GD)",
+  "termJa": "頭文字つきの従属天使名（GD）",
+  "en": "In later Golden Dawn practice a Tablet-of-Union letter goes in front of each servient name: the 2nd to 5th letters of the tablet's row for the Air, Water, Earth and Fire sub-angles (XCZNS).",
+  "ja": "後期のゴールデン・ドーンでは、従属天使の名前の頭に結合の板の文字をつけます。板の行の2〜5文字目を、風・水・地・火の小区画の順に使います（例：XCZNS）。"
+ },
+ "cacodemons": {
+  "term": "Three-letter names (cacodemons)",
+  "termJa": "3文字の名（悪霊）",
+  "en": "Two servient letters plus one letter from the Tablet of Union or Black Cross make the name of an evil spirit, such as XCZ. The Calvary Cross names read backwards govern them.",
+  "ja": "従属天使の2文字に、結合の板か黒い十字の1文字を足すと、悪霊の名前になります（例：XCZ）。カルヴァリ十字の名を逆から読むと、これらを従わせる名になります。"
+ }
+}

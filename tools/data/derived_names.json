@@ -1,0 +1,9610 @@
+{
+ "_about": "Names derived by algorithm (rules.md) from goldenDawn grids in tablets.json, each compared with published spellings. Comparison ignores case and treats C=K, U=V, I=Y as one letter. verified=true means 2+ sources print the same spelling. publishedDifferent shows sources that print something else. Source keys: see sources.md. DEE = Dee's own name lists in Sloane 3191 (built mostly from the 1584 letters, so a mismatch with DEE often just marks a 1584/1587 letter change). AZ0TH = an independent recomputation from the Tabula Recensa (only rows where it differs from Dee were listed).",
+ "names": {
+  "Air": {
+   "tabletOfUnionLine": "EXARP",
+   "threeHolyNames": [
+    {
+     "derived": "ORO",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       0
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       2
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "IBAH",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "AOZPI",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified"
+    }
+   ],
+   "greatKing": {
+    "derived": "BATAIVAH",
+    "publishedMatches": [
+     "BOOKH",
+     "CROWLEY",
+     "GDCONS",
+     "KONDOR"
+    ],
+    "publishedDifferent": {
+     "DEE": "BATAIVA|BATAIVH",
+     "TFR": "BATAIVA|BATAIVH"
+    },
+    "verified": true,
+    "cells": [
+     [
+      6,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      6,
+      6
+     ]
+    ],
+    "status": "verified"
+   },
+   "sixSeniors": {
+    "1_lineaSS_leftward": {
+     "derived": "HABIORO",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       0
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mars"
+    },
+    "2_lineaPatris_upward": {
+     "derived": "AAOZAIF",
+     "publishedMatches": [
+      "GDCONS",
+      "KONDOR",
+      "AZ0TH"
+     ],
+     "publishedDifferent": {
+      "DEE": "AAOXAIF",
+      "BOOKH": "AAOXAIF"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       5,
+       5
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       3,
+       5
+      ],
+      [
+       2,
+       5
+      ],
+      [
+       1,
+       5
+      ],
+      [
+       0,
+       5
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 3,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "verified",
+     "planetGD": "Jupiter"
+    },
+    "3_lineaFilii_upward": {
+     "derived": "HTMORDA",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       3,
+       6
+      ],
+      [
+       2,
+       6
+      ],
+      [
+       1,
+       6
+      ],
+      [
+       0,
+       6
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Luna"
+    },
+    "4_lineaSS_rightward": {
+     "derived": "AHAOZPI",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Venus"
+    },
+    "5_lineaPatris_downward": {
+     "derived": "AVTOTAR",
+     "publishedMatches": [
+      "DEE",
+      "TFR",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       7,
+       5
+      ],
+      [
+       8,
+       5
+      ],
+      [
+       9,
+       5
+      ],
+      [
+       10,
+       5
+      ],
+      [
+       11,
+       5
+      ],
+      [
+       12,
+       5
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mercury"
+    },
+    "6_lineaFilii_downward": {
+     "derived": "HIPOTGA",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       7,
+       6
+      ],
+      [
+       8,
+       6
+      ],
+      [
+       9,
+       6
+      ],
+      [
+       10,
+       6
+      ],
+      [
+       11,
+       6
+      ],
+      [
+       12,
+       6
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Saturn"
+    }
+   },
+   "subAngles": {
+    "Air of Air": {
+     "position": "top-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "IDOIGO",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        2
+       ],
+       [
+        5,
+        2
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "ARDZA",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        3
+       ],
+       [
+        1,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "RZLA",
+       "publishedMatches": [
+        "DEE",
+        "TFR",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "ZLAR",
+       "publishedMatches": [
+        "DEE",
+        "TFR",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "LARZ",
+       "publishedMatches": [
+        "DEE",
+        "TFR",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "ARZL",
+       "publishedMatches": [
+        "DEE",
+        "TFR",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "ERZLA",
+      "publishedMatches": [
+       "DEE",
+       "BOOKH",
+       "GDCONS",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        3
+       ],
+       [
+        0,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "ERZLA",
+       "EZLAR",
+       "ELARZ",
+       "EARZL"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "CZNS",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "TOTT",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "SIAS",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "FMND",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "verified"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "XCZNS",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "XTOTT",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "XSIAS",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "XFMND",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "X"
+    },
+    "Water of Air": {
+     "position": "top-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "LLACZA",
+      "publishedMatches": [
+       "DEE",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {
+       "TFR": "ILACZA"
+      },
+      "verified": true,
+      "cells": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        9
+       ],
+       [
+        3,
+        9
+       ],
+       [
+        4,
+        9
+       ],
+       [
+        5,
+        9
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 0,
+        "col": 9,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "PALAM",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        7
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        1,
+        10
+       ],
+       [
+        1,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "YTPA",
+       "publishedMatches": [
+        "BOOKH",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "VTPA"
+       },
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 0,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "TPAY",
+       "publishedMatches": [
+        "BOOKH",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "TPAU"
+       },
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 0,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "PAYT",
+       "publishedMatches": [
+        "BOOKH",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "PAUT"
+       },
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 0,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "AYTP",
+       "publishedMatches": [
+        "BOOKH",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "AUTP"
+       },
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 0,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "EYTPA",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "EVTPA",
+       "BOOKH": "EUTPA"
+      },
+      "verified": false,
+      "cells": [
+       [
+        0,
+        7
+       ],
+       [
+        0,
+        8
+       ],
+       [
+        0,
+        10
+       ],
+       [
+        0,
+        11
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 0,
+        "col": 7,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "EYTPA",
+       "ETPAY",
+       "EPAYT",
+       "EAYTP"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "OYVB",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "PAOC",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "RBNH",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "DIRI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {
+        "BOOKH": "DIRL"
+       },
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "AOYVB",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "AOVUB"
+       },
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "APAOC",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ARBNH",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ADIRI",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "A"
+    },
+    "Earth of Air": {
+     "position": "bottom-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "AIAOAI",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH"
+      ],
+      "publishedDifferent": {
+       "KONDOR": "AAIOAI"
+      },
+      "verified": true,
+      "cells": [
+       [
+        7,
+        2
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        9,
+        2
+       ],
+       [
+        10,
+        2
+       ],
+       [
+        11,
+        2
+       ],
+       [
+        12,
+        2
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "OIIIT",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        0
+       ],
+       [
+        8,
+        1
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        8,
+        3
+       ],
+       [
+        8,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "TNBR",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "CNBR"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "NBRT",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "NBRC"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "BRTN",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "BRCN"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "RTNB",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "RCNB"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "ETNBR",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "HCNBR",
+       "BOOKH": "ECNBR"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        0
+       ],
+       [
+        7,
+        1
+       ],
+       [
+        7,
+        3
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 0,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 4,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "ETNBR",
+       "ENBRT",
+       "EBRTN",
+       "ERTNB"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "ABMO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NACO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "OCNM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "SHAL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "RABMO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RNACO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ROCNM",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RSHAL",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "R"
+    },
+    "Fire of Air": {
+     "position": "bottom-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "AOURRZ",
+      "publishedMatches": [
+       "DEE",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        7,
+        9
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        9,
+        9
+       ],
+       [
+        10,
+        9
+       ],
+       [
+        11,
+        9
+       ],
+       [
+        12,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "ALOAI",
+      "publishedMatches": [
+       "DEE",
+       "TFR",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        7
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        8,
+        10
+       ],
+       [
+        8,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "XGSD",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "XGZD"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "GSDX",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "GZDX"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "SDXG",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "ZDXG"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "DXGS",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "DXGZ"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "EXGSD",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "HXGZD",
+       "BOOKH": "EXGZD"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        7
+       ],
+       [
+        7,
+        8
+       ],
+       [
+        7,
+        10
+       ],
+       [
+        7,
+        11
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 10,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "EXGSD",
+       "EGSDX",
+       "ESDXG",
+       "EDXGS"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "ACCA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NPNT",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "NPAT"
+       },
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "OTOI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "PMOX",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "PACCA",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "PNPNT",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "PNPUT"
+       },
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "POTOI",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "PPMOX",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "P"
+    }
+   }
+  },
+  "Water": {
+   "tabletOfUnionLine": "HCOMA",
+   "threeHolyNames": [
+    {
+     "derived": "MPH",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "CROWLEY",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS_pron": "EMPEH (vowelised pronunciation form, not compared)"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       0
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       2
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "ARSL",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "CROWLEY",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS_pron": "ARSEL (vowelised pronunciation form, not compared)"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "GAIOL",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "CROWLEY",
+      "KONDOR",
+      "GDCONS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified"
+    }
+   ],
+   "greatKing": {
+    "derived": "RAAGIOSL",
+    "publishedMatches": [
+     "BOOKH",
+     "CROWLEY",
+     "KONDOR"
+    ],
+    "publishedDifferent": {
+     "DEE": "RAAGIOS|RAAGIOL",
+     "GDCONS_pron": "RA AGIOSEL (vowelised pronunciation form, not compared)"
+    },
+    "verified": true,
+    "cells": [
+     [
+      6,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      6,
+      6
+     ]
+    ],
+    "status": "verified"
+   },
+   "sixSeniors": {
+    "1_lineaSS_leftward": {
+     "derived": "LSRAHPM",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "CROWLEY": "LSRAHP"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       0
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mars"
+    },
+    "2_lineaPatris_upward": {
+     "derived": "SAIINOV",
+     "publishedMatches": [
+      "DEE",
+      "CROWLEY",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS": "SAIINOR"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       5,
+       5
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       3,
+       5
+      ],
+      [
+       2,
+       5
+      ],
+      [
+       1,
+       5
+      ],
+      [
+       0,
+       5
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Jupiter"
+    },
+    "3_lineaFilii_upward": {
+     "derived": "LAOAXRP",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "CROWLEY": "LAOAZRP"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       3,
+       6
+      ],
+      [
+       2,
+       6
+      ],
+      [
+       1,
+       6
+      ],
+      [
+       0,
+       6
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 2,
+       "col": 6,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "verified",
+     "planetGD": "Luna"
+    },
+    "4_lineaSS_rightward": {
+     "derived": "SLGAIOL",
+     "publishedMatches": [
+      "DEE",
+      "CROWLEY",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Venus"
+    },
+    "5_lineaPatris_downward": {
+     "derived": "SONIZNT",
+     "publishedMatches": [
+      "GDCONS",
+      "AZ0TH"
+     ],
+     "publishedDifferent": {
+      "DEE": "SOAIXNT",
+      "KONDOR": "SOAIXNT",
+      "CROWLEY": "SOAIZNT"
+     },
+     "verified": false,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       7,
+       5
+      ],
+      [
+       8,
+       5
+      ],
+      [
+       9,
+       5
+      ],
+      [
+       10,
+       5
+      ],
+      [
+       11,
+       5
+      ],
+      [
+       12,
+       5
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 8,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      },
+      {
+       "row": 10,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "unverified",
+     "unverified": true,
+     "planetGD": "Mercury"
+    },
+    "6_lineaFilii_downward": {
+     "derived": "LIGDISA",
+     "publishedMatches": [
+      "DEE",
+      "CROWLEY",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       7,
+       6
+      ],
+      [
+       8,
+       6
+      ],
+      [
+       9,
+       6
+      ],
+      [
+       10,
+       6
+      ],
+      [
+       11,
+       6
+      ],
+      [
+       12,
+       6
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Saturn"
+    }
+   },
+   "subAngles": {
+    "Air of Water": {
+     "position": "top-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "OBGOTA",
+      "publishedMatches": [
+       "DEE",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {
+       "BOOKH": "OBGOCA",
+       "CROWLEY": "OLGOTA",
+       "KONDOR": "OBLOGTA"
+      },
+      "verified": false,
+      "cells": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        2
+       ],
+       [
+        5,
+        2
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 1,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 4,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "AABCO",
+      "publishedMatches": [
+       "DEE",
+       "BOOKH",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {
+       "CROWLEY": "AALCO",
+       "KONDOR": "ABAKO"
+      },
+      "verified": true,
+      "cells": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        3
+       ],
+       [
+        1,
+        4
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 1,
+        "col": 0,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 1,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "TAAD",
+       "publishedMatches": [
+        "DEE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "AADT",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ADTA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "DTAA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "HTAAD",
+      "publishedMatches": [
+       "BOOKH",
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "ATAAD"
+      },
+      "verified": true,
+      "cells": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        3
+       ],
+       [
+        0,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "HTAAD",
+       "HAADT",
+       "HADTA",
+       "HDTAA"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "TOCO",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "TOCA|TACO"
+       },
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 2,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "NHDD",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "PAAX",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "SAIX",
+       "publishedMatches": [
+        "DEE",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 5,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "CTOCO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 2,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "CNHDD",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "CPAAX",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "CSAIX",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 5,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientPrefixLetter": "C"
+    },
+    "Water of Water": {
+     "position": "top-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "NELAPR",
+      "publishedMatches": [
+       "DEE",
+       "CROWLEY",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        9
+       ],
+       [
+        3,
+        9
+       ],
+       [
+        4,
+        9
+       ],
+       [
+        5,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "OMEBB",
+      "publishedMatches": [
+       "DEE",
+       "CROWLEY",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        7
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        1,
+        10
+       ],
+       [
+        1,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "TDIM",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "DIMT",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "IMTD",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "MTDI",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "verified"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "HTDIM",
+      "publishedMatches": [
+       "BOOKH",
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "ATDIM"
+      },
+      "verified": true,
+      "cells": [
+       [
+        0,
+        7
+       ],
+       [
+        0,
+        8
+       ],
+       [
+        0,
+        10
+       ],
+       [
+        0,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "HTDIM",
+       "HDIMT",
+       "HIMTD",
+       "HMTDI"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "MAGM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {
+        "CROWLEY": "INGM"
+       },
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 2,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 2,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "LEOC",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {
+        "CROWLEY": "LAOC"
+       },
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 3,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "VSSN",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "RVOI",
+       "publishedMatches": [
+        "DEE",
+        "CROWLEY"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "verified"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "OMAGM",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 2,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 2,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "OLEOC",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "OILOK"
+       },
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 3,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "OVSSN",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "OVSXYL"
+       },
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "ORVOI",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "ORVLI"
+       },
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientPrefixLetter": "O"
+    },
+    "Earth of Water": {
+     "position": "bottom-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "MALADI",
+      "publishedMatches": [
+       "DEE",
+       "CROWLEY",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        7,
+        2
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        9,
+        2
+       ],
+       [
+        10,
+        2
+       ],
+       [
+        11,
+        2
+       ],
+       [
+        12,
+        2
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "OLAAD",
+      "publishedMatches": [
+       "DEE",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {
+       "CROWLEY": "OCAAD"
+      },
+      "verified": true,
+      "cells": [
+       [
+        8,
+        0
+       ],
+       [
+        8,
+        1
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        8,
+        3
+       ],
+       [
+        8,
+        4
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 8,
+        "col": 1,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "MAGL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AGLM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "GLMA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "LMAG",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "HMAGL",
+      "publishedMatches": [
+       "BOOKH",
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "PMAGL"
+      },
+      "verified": true,
+      "cells": [
+       [
+        7,
+        0
+       ],
+       [
+        7,
+        1
+       ],
+       [
+        7,
+        3
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "HMAGL",
+       "HAGLM",
+       "HGLMA",
+       "HLMAG"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "PACO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NDZN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IIPO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 11,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "XRNH",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "MPACO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "MNDZN",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "MIIPO",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "MRIPO"
+       },
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 11,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "MXRNH",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "M"
+    },
+    "Fire of Water": {
+     "position": "bottom-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "IAAASD",
+      "publishedMatches": [
+       "DEE",
+       "CROWLEY",
+       "BOOKH",
+       "KONDOR",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        7,
+        9
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        9,
+        9
+       ],
+       [
+        10,
+        9
+       ],
+       [
+        11,
+        9
+       ],
+       [
+        12,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "ATAPA",
+      "publishedMatches": [
+       "DEE",
+       "CROWLEY",
+       "BOOKH",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        7
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        8,
+        10
+       ],
+       [
+        8,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "NLRX",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "LRXN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RXNL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "XNLR",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "HNLRX",
+      "publishedMatches": [
+       "BOOKH",
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "PNLRX"
+      },
+      "verified": true,
+      "cells": [
+       [
+        7,
+        7
+       ],
+       [
+        7,
+        8
+       ],
+       [
+        7,
+        10
+       ],
+       [
+        7,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "HNLRX",
+       "HLRXN",
+       "HRXNL",
+       "HXNLR"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "XPCN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "VASA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "DAPI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RNIL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 12,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "AXPCN",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AVASA",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ADAPI",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ARNIL",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 12,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientPrefixLetter": "A"
+    }
+   }
+  },
+  "Earth": {
+   "tabletOfUnionLine": "NANTA",
+   "threeHolyNames": [
+    {
+     "derived": "MOR",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS_pron": "EMOR (vowelised pronunciation form, not compared)"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       0
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       2
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "DIAL",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR",
+      "GDCONS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "HCTGA",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS_pron": "HECTEGA (vowelised pronunciation form, not compared)"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified"
+    }
+   ],
+   "greatKing": {
+    "derived": "ICZHIHAL",
+    "publishedMatches": [
+     "ROWE_SENIORS",
+     "AZ0TH"
+    ],
+    "publishedDifferent": {
+     "KONDOR": "IKZHIKAL",
+     "CROWLEY": "ICZHHCAL",
+     "DEE": "ICZHHCA|ICZHHCL",
+     "GDCONS_pron": "IC ZOD HEH CHAL (vowelised pronunciation form, not compared)"
+    },
+    "verified": false,
+    "cells": [
+     [
+      6,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      6,
+      6
+     ]
+    ],
+    "uncertainSquares": [
+     {
+      "row": 7,
+      "col": 6,
+      "why": "GD sources show other letters here"
+     },
+     {
+      "row": 7,
+      "col": 5,
+      "why": "GD sources show other letters here"
+     }
+    ],
+    "status": "unverified",
+    "unverified": true
+   },
+   "sixSeniors": {
+    "1_lineaSS_leftward": {
+     "derived": "LAIDROM",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR",
+      "ROWE_SENIORS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       0
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mars"
+    },
+    "2_lineaPatris_upward": {
+     "derived": "ACZINOR",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR",
+      "ROWE_SENIORS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       5,
+       5
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       3,
+       5
+      ],
+      [
+       2,
+       5
+      ],
+      [
+       1,
+       5
+      ],
+      [
+       0,
+       5
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Jupiter"
+    },
+    "3_lineaFilii_upward": {
+     "derived": "LZINOPO",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR",
+      "ROWE_SENIORS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       3,
+       6
+      ],
+      [
+       2,
+       6
+      ],
+      [
+       1,
+       6
+      ],
+      [
+       0,
+       6
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Luna"
+    },
+    "4_lineaSS_rightward": {
+     "derived": "ALHCTGA",
+     "publishedMatches": [
+      "DEE",
+      "KONDOR",
+      "ROWE_SENIORS"
+     ],
+     "publishedDifferent": {
+      "GDCONS": "ALPHCTGA"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Venus"
+    },
+    "5_lineaPatris_downward": {
+     "derived": "AHMLICV",
+     "publishedMatches": [
+      "ROWE_SENIORS",
+      "AZ0TH"
+     ],
+     "publishedDifferent": {
+      "DEE": "ACMLICU",
+      "GDCONS": "AHMLLICV",
+      "KONDOR": "AHMLLKV"
+     },
+     "verified": false,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       7,
+       5
+      ],
+      [
+       8,
+       5
+      ],
+      [
+       9,
+       5
+      ],
+      [
+       10,
+       5
+      ],
+      [
+       11,
+       5
+      ],
+      [
+       12,
+       5
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 7,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      },
+      {
+       "row": 9,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      },
+      {
+       "row": 10,
+       "col": 5,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "unverified",
+     "unverified": true,
+     "planetGD": "Mercury"
+    },
+    "6_lineaFilii_downward": {
+     "derived": "LIIANSA",
+     "publishedMatches": [
+      "GDCONS",
+      "ROWE_SENIORS",
+      "AZ0TH"
+     ],
+     "publishedDifferent": {
+      "DEE": "LHIANSA",
+      "KONDOR": "LHIANSA"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       7,
+       6
+      ],
+      [
+       8,
+       6
+      ],
+      [
+       9,
+       6
+      ],
+      [
+       10,
+       6
+      ],
+      [
+       11,
+       6
+      ],
+      [
+       12,
+       6
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 7,
+       "col": 6,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "verified",
+     "planetGD": "Saturn"
+    }
+   },
+   "subAngles": {
+    "Air of Earth": {
+     "position": "top-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "ANGPOI",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        2
+       ],
+       [
+        5,
+        2
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "UNNAX",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        3
+       ],
+       [
+        1,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "BOZA",
+       "publishedMatches": [
+        "DEE",
+        "ROWE",
+        "BOOKH"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "OZAB",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ZABO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ABOZ",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "NBOZA",
+      "publishedMatches": [
+       "GDCONS",
+       "ROWE"
+      ],
+      "publishedDifferent": {
+       "DEE": "EBOZA"
+      },
+      "verified": true,
+      "cells": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        3
+       ],
+       [
+        0,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "NBOZA",
+       "NOZAB",
+       "NZABO",
+       "NABOZ"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "AIRA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ORMN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RSNI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IZNR",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "AAIRA",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AORMN",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ARSNI",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AIZNR",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "A"
+    },
+    "Water of Earth": {
+     "position": "top-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "ANAEEM",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        9
+       ],
+       [
+        3,
+        9
+       ],
+       [
+        4,
+        9
+       ],
+       [
+        5,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "SONDN",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        7
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        1,
+        10
+       ],
+       [
+        1,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "PHRA",
+       "publishedMatches": [
+        "DEE",
+        "ROWE"
+       ],
+       "publishedDifferent": {},
+       "verified": true,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "verified"
+      },
+      {
+       "derived": "HRAP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RAPH",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "APHR",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "NPHRA",
+      "publishedMatches": [
+       "GDCONS",
+       "ROWE"
+      ],
+      "publishedDifferent": {
+       "DEE": "EPHRA"
+      },
+      "verified": true,
+      "cells": [
+       [
+        0,
+        7
+       ],
+       [
+        0,
+        8
+       ],
+       [
+        0,
+        10
+       ],
+       [
+        0,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "NPHRA",
+       "NHRAP",
+       "NRAPH",
+       "NAPHR"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "OMGG",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "GBAL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RLMV",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IAHL",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "NOMGG",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "NAMGG"
+       },
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "NGBAL",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NRLMV",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NIAHL",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "N"
+    },
+    "Earth of Earth": {
+     "position": "bottom-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "ABALPT",
+      "publishedMatches": [
+       "KONDOR",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {
+       "DEE": "CBALPT"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        2
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        9,
+        2
+       ],
+       [
+        10,
+        2
+       ],
+       [
+        11,
+        2
+       ],
+       [
+        12,
+        2
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 10,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "ARBIZ",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        0
+       ],
+       [
+        8,
+        1
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        8,
+        3
+       ],
+       [
+        8,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "OCNC",
+       "publishedMatches": [
+        "ROWE",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "ROAN"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 3,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "CNCO",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "OANR"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 3,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "NCOC",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "ANRO"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 3,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "COCN",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "NROA"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 0,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 3,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "NOCNC",
+      "publishedMatches": [
+       "ROWE"
+      ],
+      "publishedDifferent": {
+       "DEE": "HROAN",
+       "GDCONS": "NROAM"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        0
+       ],
+       [
+        7,
+        1
+       ],
+       [
+        7,
+        3
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 0,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 1,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 3,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 4,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "NOCNC",
+       "NCNCO",
+       "NNCOC",
+       "NCOCN"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "OPNA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "DOOP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "RXAO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AXIR",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "TOPNA",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "TDOOP",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "TRXAO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "TAXIR",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "T"
+    },
+    "Fire of Earth": {
+     "position": "bottom-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "OPMNIR",
+      "publishedMatches": [
+       "KONDOR",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {
+       "DEE": "SPMNIR"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        9
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        9,
+        9
+       ],
+       [
+        10,
+        9
+       ],
+       [
+        11,
+        9
+       ],
+       [
+        12,
+        9
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 9,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "ILPIZ",
+      "publishedMatches": [
+       "KONDOR",
+       "AZ0TH"
+      ],
+      "publishedDifferent": {
+       "DEE": "LLPIZ"
+      },
+      "verified": false,
+      "cells": [
+       [
+        8,
+        7
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        8,
+        10
+       ],
+       [
+        8,
+        11
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 8,
+        "col": 7,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels": [
+      {
+       "derived": "ASMT",
+       "publishedMatches": [
+        "ROWE",
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "IAOM"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "SMTA",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "AOMI"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "MTAS",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "OMIA"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "TASM",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "MIAO"
+       },
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 7,
+         "col": 7,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 8,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 10,
+         "why": "GD sources show other letters here"
+        },
+        {
+         "row": 7,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "NASMT",
+      "publishedMatches": [
+       "ROWE"
+      ],
+      "publishedDifferent": {
+       "DEE": "HIAOM",
+       "GDCONS": "NAAOM",
+       "BOOKH": "NTAOM"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        7
+       ],
+       [
+        7,
+        8
+       ],
+       [
+        7,
+        10
+       ],
+       [
+        7,
+        11
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 7,
+        "col": 7,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 8,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 10,
+        "why": "GD sources show other letters here"
+       },
+       {
+        "row": 7,
+        "col": 11,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "NASMT",
+       "NSMTA",
+       "NMTAS",
+       "NTASM"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "MSAP",
+       "publishedMatches": [
+        "AZ0TH"
+       ],
+       "publishedDifferent": {
+        "DEE": "MSAL"
+       },
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 9,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "IABA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IZXP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "STIM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 12,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "AMSAP",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "AMSAT"
+       },
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 9,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "AIABA",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AIZXP",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ASTIM",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 12,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientPrefixLetter": "A"
+    }
+   }
+  },
+  "Fire": {
+   "tabletOfUnionLine": "BITOM",
+   "threeHolyNames": [
+    {
+     "derived": "OIP",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR",
+      "GDCONS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       0
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       2
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "TEAA",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR",
+      "GDCONS"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ]
+     ],
+     "status": "verified"
+    },
+    {
+     "derived": "PDOCE",
+     "publishedMatches": [
+      "DEE",
+      "BOOKH",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS_pron": "PEDOCE (vowelised pronunciation form, not compared)"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified"
+    }
+   ],
+   "greatKing": {
+    "derived": "EDLPRNAA",
+    "publishedMatches": [
+     "CROWLEY",
+     "KONDOR"
+    ],
+    "publishedDifferent": {
+     "DEE": "EDLPRNA",
+     "GDCONS_pron": "EDEL PERNAA (vowelised pronunciation form, not compared)"
+    },
+    "verified": true,
+    "cells": [
+     [
+      6,
+      4
+     ],
+     [
+      5,
+      5
+     ],
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      7,
+      6
+     ],
+     [
+      7,
+      5
+     ],
+     [
+      6,
+      5
+     ],
+     [
+      6,
+      6
+     ]
+    ],
+    "status": "verified"
+   },
+   "sixSeniors": {
+    "1_lineaSS_leftward": {
+     "derived": "AAETPIO",
+     "publishedMatches": [
+      "DEE",
+      "KONDOR"
+     ],
+     "publishedDifferent": {
+      "GDCONS": "AAETPOI"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       4
+      ],
+      [
+       6,
+       3
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       6,
+       1
+      ],
+      [
+       6,
+       0
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mars"
+    },
+    "2_lineaPatris_upward": {
+     "derived": "ADOEOET",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS"
+     ],
+     "publishedDifferent": {
+      "KONDOR": "ADAEOET"
+     },
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       5,
+       5
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       3,
+       5
+      ],
+      [
+       2,
+       5
+      ],
+      [
+       1,
+       5
+      ],
+      [
+       0,
+       5
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Jupiter"
+    },
+    "3_lineaFilii_upward": {
+     "derived": "ALNDVOD",
+     "publishedMatches": [
+      "GDCONS",
+      "AZ0TH"
+     ],
+     "publishedDifferent": {
+      "DEE": "ALNDOOD",
+      "KONDOR": "ALNKVOD"
+     },
+     "verified": false,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       3,
+       6
+      ],
+      [
+       2,
+       6
+      ],
+      [
+       1,
+       6
+      ],
+      [
+       0,
+       6
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 2,
+       "col": 6,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "unverified",
+     "unverified": true,
+     "planetGD": "Luna"
+    },
+    "4_lineaSS_rightward": {
+     "derived": "AAPDOCE",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       6,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       6,
+       10
+      ],
+      [
+       6,
+       11
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Venus"
+    },
+    "5_lineaPatris_downward": {
+     "derived": "ANODOIN",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       5
+      ],
+      [
+       7,
+       5
+      ],
+      [
+       8,
+       5
+      ],
+      [
+       9,
+       5
+      ],
+      [
+       10,
+       5
+      ],
+      [
+       11,
+       5
+      ],
+      [
+       12,
+       5
+      ]
+     ],
+     "status": "verified",
+     "planetGD": "Mercury"
+    },
+    "6_lineaFilii_downward": {
+     "derived": "ARINNAP",
+     "publishedMatches": [
+      "DEE",
+      "GDCONS",
+      "KONDOR"
+     ],
+     "publishedDifferent": {},
+     "verified": true,
+     "cells": [
+      [
+       6,
+       6
+      ],
+      [
+       7,
+       6
+      ],
+      [
+       8,
+       6
+      ],
+      [
+       9,
+       6
+      ],
+      [
+       10,
+       6
+      ],
+      [
+       11,
+       6
+      ],
+      [
+       12,
+       6
+      ]
+     ],
+     "uncertainSquares": [
+      {
+       "row": 12,
+       "col": 6,
+       "why": "GD sources show other letters here"
+      }
+     ],
+     "status": "verified",
+     "planetGD": "Saturn"
+    }
+   },
+   "subAngles": {
+    "Air of Fire": {
+     "position": "top-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "NOALMR",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        2
+       ],
+       [
+        5,
+        2
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "OLOAG",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        3
+       ],
+       [
+        1,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "DOPA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "OPAD",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "PADO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ADOP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         0
+        ],
+        [
+         0,
+         1
+        ],
+        [
+         0,
+         3
+        ],
+        [
+         0,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "BDOPA",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "ADOPA"
+      },
+      "verified": false,
+      "cells": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        3
+       ],
+       [
+        0,
+        4
+       ]
+      ],
+      "status": "supported"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "BDOPA",
+       "BOPAD",
+       "BPADO",
+       "BADOP"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "OPMN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "APST",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 3,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "SCIO",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 4,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "VASG",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "IOPMN",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         0
+        ],
+        [
+         2,
+         1
+        ],
+        [
+         2,
+         3
+        ],
+        [
+         2,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IAPST",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         0
+        ],
+        [
+         3,
+         1
+        ],
+        [
+         3,
+         3
+        ],
+        [
+         3,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 3,
+         "col": 1,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "ISCIO",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         0
+        ],
+        [
+         4,
+         1
+        ],
+        [
+         4,
+         3
+        ],
+        [
+         4,
+         4
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 4,
+         "col": 4,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "IVASG",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         0
+        ],
+        [
+         5,
+         1
+        ],
+        [
+         5,
+         3
+        ],
+        [
+         5,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "I"
+    },
+    "Water of Fire": {
+     "position": "top-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "VADALI",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        9
+       ],
+       [
+        3,
+        9
+       ],
+       [
+        4,
+        9
+       ],
+       [
+        5,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "OBAUA",
+      "publishedMatches": [
+       "DEE"
+      ],
+      "publishedDifferent": {
+       "KONDOR": "OBAVI"
+      },
+      "verified": false,
+      "cells": [
+       [
+        1,
+        7
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        1,
+        10
+       ],
+       [
+        1,
+        11
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 1,
+        "col": 11,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "unverified",
+      "unverified": true
+     },
+     "kerubicAngels": [
+      {
+       "derived": "ANAA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "NAAA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AAAN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AANA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         0,
+         7
+        ],
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         10
+        ],
+        [
+         0,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "BANAA",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "AANAA"
+      },
+      "verified": false,
+      "cells": [
+       [
+        0,
+        7
+       ],
+       [
+        0,
+        8
+       ],
+       [
+        0,
+        10
+       ],
+       [
+        0,
+        11
+       ]
+      ],
+      "status": "supported"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "BANAA",
+       "BNAAA",
+       "BAAAN",
+       "BAANA"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "GMNM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ECOP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AMOX",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "BRAP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "TGMNM",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         2,
+         7
+        ],
+        [
+         2,
+         8
+        ],
+        [
+         2,
+         10
+        ],
+        [
+         2,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "TECOP",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         3,
+         7
+        ],
+        [
+         3,
+         8
+        ],
+        [
+         3,
+         10
+        ],
+        [
+         3,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "TAMOX",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         4,
+         7
+        ],
+        [
+         4,
+         8
+        ],
+        [
+         4,
+         10
+        ],
+        [
+         4,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "TBRAP",
+       "publishedMatches": [],
+       "publishedDifferent": {
+        "KONDOR": "TVRAP"
+       },
+       "verified": false,
+       "cells": [
+        [
+         5,
+         7
+        ],
+        [
+         5,
+         8
+        ],
+        [
+         5,
+         10
+        ],
+        [
+         5,
+         11
+        ]
+       ],
+       "status": "unverified",
+       "unverified": true
+      }
+     ],
+     "servientPrefixLetter": "T"
+    },
+    "Earth of Fire": {
+     "position": "bottom-left",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "UOLXDO",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        7,
+        2
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        9,
+        2
+       ],
+       [
+        10,
+        2
+       ],
+       [
+        11,
+        2
+       ],
+       [
+        12,
+        2
+       ]
+      ],
+      "uncertainSquares": [
+       {
+        "row": 9,
+        "col": 2,
+        "why": "GD sources show other letters here"
+       }
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "SIODA",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        0
+       ],
+       [
+        8,
+        1
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        8,
+        3
+       ],
+       [
+        8,
+        4
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "PSAC",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "SACP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ACPS",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "CPSA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         0
+        ],
+        [
+         7,
+         1
+        ],
+        [
+         7,
+         3
+        ],
+        [
+         7,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "BPSAC",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "PPSAC"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        0
+       ],
+       [
+        7,
+        1
+       ],
+       [
+        7,
+        3
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "status": "supported"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "BPSAC",
+       "BSACP",
+       "BACPS",
+       "BCPSA"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "DATT",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "DIOM",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "OOPZ",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "RGAN",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "ODATT",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         0
+        ],
+        [
+         9,
+         1
+        ],
+        [
+         9,
+         3
+        ],
+        [
+         9,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ODIOM",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         0
+        ],
+        [
+         10,
+         1
+        ],
+        [
+         10,
+         3
+        ],
+        [
+         10,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "OOOPZ",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         0
+        ],
+        [
+         11,
+         1
+        ],
+        [
+         11,
+         3
+        ],
+        [
+         11,
+         4
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ORGAN",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         0
+        ],
+        [
+         12,
+         1
+        ],
+        [
+         12,
+         3
+        ],
+        [
+         12,
+         4
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "O"
+    },
+    "Fire of Fire": {
+     "position": "bottom-right",
+     "calvaryCross_vertical_6_callingName": {
+      "derived": "RZIONR",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        7,
+        9
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        9,
+        9
+       ],
+       [
+        10,
+        9
+       ],
+       [
+        11,
+        9
+       ],
+       [
+        12,
+        9
+       ]
+      ],
+      "status": "verified"
+     },
+     "calvaryCross_horizontal_5_commandingName": {
+      "derived": "NRZFM",
+      "publishedMatches": [
+       "DEE",
+       "KONDOR"
+      ],
+      "publishedDifferent": {},
+      "verified": true,
+      "cells": [
+       [
+        8,
+        7
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        8,
+        9
+       ],
+       [
+        8,
+        10
+       ],
+       [
+        8,
+        11
+       ]
+      ],
+      "status": "verified"
+     },
+     "kerubicAngels": [
+      {
+       "derived": "ZIZA",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "IZAZ",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ZAZI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "AZIZ",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         7,
+         7
+        ],
+        [
+         7,
+         8
+        ],
+        [
+         7,
+         10
+        ],
+        [
+         7,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "kerubicRulingName_prefixed": {
+      "derived": "BZIZA",
+      "publishedMatches": [
+       "GDCONS"
+      ],
+      "publishedDifferent": {
+       "DEE": "PZIZA"
+      },
+      "verified": false,
+      "cells": [
+       [
+        7,
+        7
+       ],
+       [
+        7,
+        8
+       ],
+       [
+        7,
+        10
+       ],
+       [
+        7,
+        11
+       ]
+      ],
+      "status": "supported"
+     },
+     "kerubicAngels_eachPrefixed_modernGDvariant": {
+      "names": [
+       "BZIZA",
+       "BIZAZ",
+       "BZAZI",
+       "BAZIZ"
+      ],
+      "unverified": true,
+      "note": "Some modern GD writers (e.g. kondor.de) prefix all four kerubic names and call them archangels. Book H and Dee prefix only the first name, giving one ruling name of God."
+     },
+     "servientAngels": [
+      {
+       "derived": "ADRE",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "SISP",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "PALI",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "ACAR",
+       "publishedMatches": [
+        "DEE"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientAngels_prefixed": [
+      {
+       "derived": "MADRE",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         9,
+         7
+        ],
+        [
+         9,
+         8
+        ],
+        [
+         9,
+         10
+        ],
+        [
+         9,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "MSISP",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         10,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         10,
+         10
+        ],
+        [
+         10,
+         11
+        ]
+       ],
+       "uncertainSquares": [
+        {
+         "row": 10,
+         "col": 11,
+         "why": "GD sources show other letters here"
+        }
+       ],
+       "status": "unverified",
+       "unverified": true
+      },
+      {
+       "derived": "MPALI",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         11,
+         7
+        ],
+        [
+         11,
+         8
+        ],
+        [
+         11,
+         10
+        ],
+        [
+         11,
+         11
+        ]
+       ],
+       "status": "supported"
+      },
+      {
+       "derived": "MACAR",
+       "publishedMatches": [
+        "KONDOR"
+       ],
+       "publishedDifferent": {},
+       "verified": false,
+       "cells": [
+        [
+         12,
+         7
+        ],
+        [
+         12,
+         8
+        ],
+        [
+         12,
+         10
+        ],
+        [
+         12,
+         11
+        ]
+       ],
+       "status": "supported"
+      }
+     ],
+     "servientPrefixLetter": "M"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,1216 @@
+{
+ "_about": "Letter grids of the four Enochian Watchtowers. rows[0] is the top row; each row is a 12-letter string, index 0 = leftmost square. U/V are one letter in Dee's alphabet (as are I/Y); grids keep the source spelling.",
+ "goldenDawn": {
+  "_about": "Golden Dawn working version. The GD tablets come from the 1587 Tabula Recensa (Raphael's reformed table), but GD manuscripts (Book H, Westcott's abridgement of Sloane MS 307) print several squares with 2-3 letters. This set gives ONE primary letter per square: the Recensa letter as transcribed by J. H. Peterson, except Air row 12 col 1 (see cellNotes). cellNotes lists every other letter seen in GD-lineage sources (Crowley Plate III, GD Book H) and in the 1584 table. Regardie's printed GD plates could not be consulted (in copyright, not online), so this is not a facsimile of them.",
+  "tablets": {
+   "Air": {
+    "element": "Air",
+    "directionGD": "East",
+    "directionDee1587MS": "ORIENS (East)",
+    "gdTitle": "Great Watchtower of the East",
+    "positionInGreatTable1587": "top-left",
+    "tabletOfUnionLine": "EXARP",
+    "deeKingForms": "BATAIVA / BATAIVH",
+    "rows": [
+     "RZILAFAYTLPA",
+     "ARDZAIDPALAM",
+     "CZONSAROYAVB",
+     "TOITTZOPACOC",
+     "SIGASOMRBZNH",
+     "FMONDATDIARI",
+     "OROIBAHAOZPI",
+     "TNABRVIXGASD",
+     "OIIITTPALOAI",
+     "ABAMOOOACUCA",
+     "NAOCOTTNPRNT",
+     "OCANMAGOTROI",
+     "SHIALRAPMZOX"
+    ],
+    "subAngleLayoutGD": {
+     "top-left (rows 0-5, cols 0-4)": "Air",
+     "top-right (rows 0-5, cols 7-11)": "Water",
+     "bottom-left (rows 7-12, cols 0-4)": "Earth",
+     "bottom-right (rows 7-12, cols 7-11)": "Fire"
+    },
+    "reversedLettersInDeeMS": [
+     {
+      "row": 8,
+      "col": 0,
+      "letter": "O"
+     },
+     {
+      "row": 9,
+      "col": 0,
+      "letter": "A"
+     }
+    ],
+    "cellNotes": [
+     {
+      "row": 12,
+      "col": 1,
+      "chosen": "H",
+      "recensa1587_peterson": "B",
+      "reason": "Peterson's Recensa reads b (S b i a l); kondor 1587, kondor 1584, TFR 1659 p.176, Crowley Plate III and GD Book H all read h, and Dee's own name list has SHAL. 'H' used."
+     },
+     {
+      "row": 0,
+      "col": 7,
+      "chosen": "Y",
+      "otherReadings": {
+       "gdBookH": "yu",
+       "dee1584_kondor": "u",
+       "dee1584_TFR1659": "u"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 0,
+      "col": 9,
+      "chosen": "L",
+      "otherReadings": {
+       "gdBookH": "li"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 6,
+      "chosen": "R",
+      "otherReadings": {
+       "dee1584_TFR1659": "v"
+      }
+     },
+     {
+      "row": 3,
+      "col": 5,
+      "chosen": "Z",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "x",
+       "gdBookH": "zx",
+       "dee1584_kondor": "x",
+       "dee1584_TFR1659": "X"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 7,
+      "col": 0,
+      "chosen": "T",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "c",
+       "gdBookH": "tc",
+       "dee1584_kondor": "c",
+       "dee1584_TFR1659": "C"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 7,
+      "col": 4,
+      "chosen": "R",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a",
+       "gdBookH": "ra"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 7,
+      "col": 10,
+      "chosen": "S",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "z",
+       "gdBookH": "sz",
+       "dee1584_kondor": "z",
+       "dee1584_TFR1659": "z"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 10,
+      "col": 10,
+      "chosen": "N",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a",
+       "gdBookH": "ua",
+       "dee1584_kondor": "a",
+       "dee1584_TFR1659": "a"
+      },
+      "gdBookH_multiLetterSquare": true
+     }
+    ]
+   },
+   "Water": {
+    "element": "Water",
+    "directionGD": "West",
+    "directionDee1587MS": "OCCIDENS (West)",
+    "gdTitle": "Great Watchtower of the West",
+    "positionInGreatTable1587": "top-right",
+    "tabletOfUnionLine": "HCOMA",
+    "deeKingForms": "RAAGIOS / RAAGIOL",
+    "rows": [
+     "TAOADVPTDNIM",
+     "AABCOOROMEBB",
+     "TOGCONXMALGM",
+     "NHODDIALEAOC",
+     "PATAXIOVSPSN",
+     "SAAIXAARVROI",
+     "MPHARSLGAIOL",
+     "MAMGLOINLIRX",
+     "OLAADNGATAPA",
+     "PALCOIDXPACN",
+     "NDAZNZIVAASA",
+     "IIDPONSDASPI",
+     "XRINHTARNDIL"
+    ],
+    "subAngleLayoutGD": {
+     "top-left (rows 0-5, cols 0-4)": "Air",
+     "top-right (rows 0-5, cols 7-11)": "Water",
+     "bottom-left (rows 7-12, cols 0-4)": "Earth",
+     "bottom-right (rows 7-12, cols 7-11)": "Fire"
+    },
+    "reversedLettersInDeeMS": [
+     {
+      "row": 4,
+      "col": 11,
+      "letter": "N"
+     },
+     {
+      "row": 12,
+      "col": 11,
+      "letter": "L"
+     }
+    ],
+    "cellNotes": [
+     {
+      "row": 1,
+      "col": 0,
+      "chosen": "A",
+      "otherReadings": {
+       "gdBookH": "ao",
+       "dee1584_kondor": "o"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 1,
+      "col": 2,
+      "chosen": "B",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "l",
+       "gdBookH": "bl",
+       "dee1584_kondor": "l"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 1,
+      "chosen": "O",
+      "otherReadings": {
+       "gdBookH": "oa",
+       "dee1584_kondor": "a"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 6,
+      "chosen": "X",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "z",
+       "gdBookH": "xz"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 7,
+      "chosen": "M",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "i",
+       "gdBookH": "mi"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 8,
+      "chosen": "A",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "n",
+       "gdBookH": "au"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 3,
+      "col": 8,
+      "chosen": "E",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a",
+       "gdBookH": "la"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 4,
+      "col": 2,
+      "chosen": "T",
+      "otherReadings": {
+       "gdBookH": "tc",
+       "dee1584_TFR1659": "c"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 5,
+      "col": 4,
+      "chosen": "X",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "z",
+       "dee1584_kondor": "z"
+      }
+     },
+     {
+      "row": 8,
+      "col": 1,
+      "chosen": "L",
+      "otherReadings": {
+       "gdBookH": "I"
+      }
+     },
+     {
+      "row": 8,
+      "col": 5,
+      "chosen": "N",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a",
+       "gdBookH": "na",
+       "dee1584_kondor": "a",
+       "dee1584_TFR1659": "a"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 10,
+      "col": 5,
+      "chosen": "Z",
+      "otherReadings": {
+       "gdBookH": "zx",
+       "dee1584_TFR1659": "x"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 11,
+      "col": 0,
+      "chosen": "I",
+      "otherReadings": {
+       "gdBookH": "ri"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 12,
+      "col": 3,
+      "chosen": "N",
+      "otherReadings": {
+       "dee1584_TFR1659": "i"
+      }
+     },
+     {
+      "row": 12,
+      "col": 8,
+      "chosen": "N",
+      "otherReadings": {
+       "gdBookH": "a"
+      }
+     }
+    ]
+   },
+   "Earth": {
+    "element": "Earth",
+    "directionGD": "North",
+    "directionDee1587MS": "MERIDIES (South)",
+    "gdTitle": "Great Watchtower of the North",
+    "positionInGreatTable1587": "bottom-left",
+    "tabletOfUnionLine": "NANTA",
+    "deeKingForms": "ICZHHCA / ICZHHCL",
+    "rows": [
+     "BOAZAROPHARA",
+     "UNNAXOPSONDN",
+     "AIGRANOOMAGG",
+     "ORPMNINGBEAL",
+     "RSONIZIRLEMV",
+     "IZINRCZIAMHL",
+     "MORDIALHCTGA",
+     "OCANCHIASOMT",
+     "ARBIZMIILPIZ",
+     "OPANALAMSMAP",
+     "DOLOPINIANBA",
+     "RXPAOCSIZIXP",
+     "AXTIRVASTRIM"
+    ],
+    "subAngleLayoutGD": {
+     "top-left (rows 0-5, cols 0-4)": "Air",
+     "top-right (rows 0-5, cols 7-11)": "Water",
+     "bottom-left (rows 7-12, cols 0-4)": "Earth",
+     "bottom-right (rows 7-12, cols 7-11)": "Fire"
+    },
+    "reversedLettersInDeeMS": [
+     {
+      "row": 7,
+      "col": 0,
+      "letter": "R"
+     },
+     {
+      "row": 8,
+      "col": 0,
+      "letter": "A"
+     }
+    ],
+    "cellNotes": [
+     {
+      "row": 7,
+      "col": 0,
+      "chosen": "O",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "R",
+       "dee1584_kondor": "R",
+       "dee1584_TFR1659": "Æ"
+      },
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 1,
+      "chosen": "C",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "O",
+       "gdBookH": "CO",
+       "dee1584_kondor": "O",
+       "dee1584_TFR1659": "O"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 2,
+      "chosen": "A",
+      "otherReadings": {
+       "gdBookH": "ac",
+       "dee1584_kondor": "c",
+       "dee1584_TFR1659": "c"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 3,
+      "chosen": "N",
+      "otherReadings": {
+       "gdBookH": "na",
+       "dee1584_kondor": "a",
+       "dee1584_TFR1659": "a"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 4,
+      "chosen": "C",
+      "otherReadings": {
+       "gdBookH": "ncm",
+       "dee1584_kondor": "n",
+       "dee1584_TFR1659": "n"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 5,
+      "chosen": "H",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "c",
+       "gdBookH": "hc",
+       "dee1584_kondor": "c",
+       "dee1584_TFR1659": "c"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 6,
+      "chosen": "I",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "h",
+       "gdBookH": "ih",
+       "dee1584_kondor": "h",
+       "dee1584_TFR1659": "h"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 7,
+      "chosen": "A",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "i",
+       "gdBookH": "Iabt",
+       "dee1584_kondor": "i",
+       "dee1584_TFR1659": "i"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 8,
+      "chosen": "S",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a",
+       "gdBookH": "sa",
+       "dee1584_kondor": "a",
+       "dee1584_TFR1659": "a"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 9,
+      "chosen": "O",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "s",
+       "gdBookH": "os",
+       "dee1584_kondor": "s",
+       "dee1584_TFR1659": "s"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 10,
+      "chosen": "M",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "o",
+       "gdBookH": "mo",
+       "dee1584_kondor": "o",
+       "dee1584_TFR1659": "o"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 7,
+      "col": 11,
+      "chosen": "T",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "m",
+       "gdBookH": "tm",
+       "dee1584_kondor": "m",
+       "dee1584_TFR1659": "m"
+      },
+      "gdBookH_multiLetterSquare": true,
+      "warning": "Earth row 7 is the most unstable row: Recensa OCANCHIASOMT, 1584 ROCANCHIASOM (shifted), Book H prints 2-3 letters per square. GD rituals differ (NOCNC/NASMT vs NROAM/NAAOM/NTAOM)."
+     },
+     {
+      "row": 8,
+      "col": 7,
+      "chosen": "I",
+      "otherReadings": {
+       "gdBookH": "il"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 9,
+      "col": 5,
+      "chosen": "L",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "B",
+       "gdBookH": "lB",
+       "dee1584_kondor": "B"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 9,
+      "col": 11,
+      "chosen": "P",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "L",
+       "gdBookH": "TL",
+       "dee1584_kondor": "L",
+       "dee1584_TFR1659": "L"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 10,
+      "col": 2,
+      "chosen": "L",
+      "otherReadings": {
+       "gdBookH": "I"
+      }
+     },
+     {
+      "row": 10,
+      "col": 4,
+      "chosen": "P",
+      "otherReadings": {
+       "gdBookH": "PF"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 10,
+      "col": 5,
+      "chosen": "I",
+      "otherReadings": {
+       "gdBookH": "l"
+      }
+     },
+     {
+      "row": 12,
+      "col": 11,
+      "chosen": "M",
+      "otherReadings": {
+       "gdBookH": "mn"
+      },
+      "gdBookH_multiLetterSquare": true
+     }
+    ]
+   },
+   "Fire": {
+    "element": "Fire",
+    "directionGD": "South",
+    "directionDee1587MS": "SEPTENTRIO (North)",
+    "gdTitle": "Great Watchtower of the South",
+    "positionInGreatTable1587": "bottom-right",
+    "tabletOfUnionLine": "BITOM",
+    "deeKingForms": "EDLPRNA / EDLPRNA~",
+    "rows": [
+     "DONPATDANVAA",
+     "OLOAGEOOBAUA",
+     "OPAMNOVGMDNM",
+     "APLSTEDECAOP",
+     "SCMIOONAMLOX",
+     "VARSGDLBRIAP",
+     "OIPTEAAPDOCE",
+     "PSUACNRZIRZA",
+     "SIODAOINRZFM",
+     "DALTTDNADIRE",
+     "DIXOMONSIOSP",
+     "OODPZIAPANLI",
+     "RGOANNPACRAR"
+    ],
+    "subAngleLayoutGD": {
+     "top-left (rows 0-5, cols 0-4)": "Air",
+     "top-right (rows 0-5, cols 7-11)": "Water",
+     "bottom-left (rows 7-12, cols 0-4)": "Earth",
+     "bottom-right (rows 7-12, cols 7-11)": "Fire"
+    },
+    "reversedLettersInDeeMS": [
+     {
+      "row": 12,
+      "col": 6,
+      "letter": "P"
+     },
+     {
+      "row": 12,
+      "col": 7,
+      "letter": "A"
+     }
+    ],
+    "cellNotes": [
+     {
+      "row": 1,
+      "col": 11,
+      "chosen": "A",
+      "otherReadings": {
+       "gdBookH": "ai",
+       "dee1584_TFR1659": "i"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 2,
+      "col": 6,
+      "chosen": "V",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "O",
+       "gdBookH": "VO",
+       "dee1584_kondor": "O",
+       "dee1584_TFR1659": "O"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 3,
+      "col": 1,
+      "chosen": "P",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "b"
+      }
+     },
+     {
+      "row": 4,
+      "col": 4,
+      "chosen": "O",
+      "otherReadings": {
+       "crowleyPlateIII_1912": "a"
+      }
+     },
+     {
+      "row": 9,
+      "col": 2,
+      "chosen": "L",
+      "otherReadings": {
+       "gdBookH": "lb"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 10,
+      "col": 11,
+      "chosen": "P",
+      "otherReadings": {
+       "gdBookH": "pa"
+      },
+      "gdBookH_multiLetterSquare": true
+     },
+     {
+      "row": 12,
+      "col": 6,
+      "chosen": "P",
+      "otherReadings": {
+       "gdBookH": "OP",
+       "dee1584_TFR1659": "Q"
+      },
+      "gdBookH_multiLetterSquare": true
+     }
+    ]
+   }
+  },
+  "tabletOfUnion": {
+   "rows": [
+    "EXARP",
+    "HCOMA",
+    "NANTA",
+    "BITOM"
+   ],
+   "rowElement": {
+    "EXARP": "Air",
+    "HCOMA": "Water",
+    "NANTA": "Earth",
+    "BITOM": "Fire"
+   },
+   "columnElementGD": [
+    "Spirit",
+    "Air",
+    "Water",
+    "Earth",
+    "Fire"
+   ],
+   "origin": "Letters of the Black Cross (the cross dividing the four tablets in the Great Table). They spell LEXARPH, COMANAN, TABITOM (governors of the 10th Aethyr ZAX) without the first L. Book H prints the table as exarp / hComa / nanTa / bitom.",
+   "verifiedBy": [
+    "gdBookH",
+    "crowleyChanokh_note10",
+    "kondor_tables",
+    "peterson_sloane3191_image (black cross)"
+   ]
+  }
+ },
+ "recensa1587": {
+  "_about": "Great Table as reformed by Raphael, 20 April 1587 (BL Sloane MS 3191, \"Tabula bonorum angelorum invocationes\"). Primary transcription: J. H. Peterson, esotericarchives.com (HTML source + typeset image of the MS page). Cross-checked square by square against kondor.de. Arrangement: Air top-left, Water top-right, Earth bottom-left, Fire bottom-right.",
+  "tablets": {
+   "Air": {
+    "positionInGreatTable": "top-left",
+    "rowsOriginalCase": [
+     "rZilafAytlpa",
+     "ardZaidpaLam",
+     "czonsaroYavb",
+     "ToiTtzoPacoC",
+     "Sigasomrbznh",
+     "fmondaTdiari",
+     "oroibAhaozpi",
+     "tNabrVixgasd",
+     "OiiitTpalOai",
+     "AbamoooaCuca",
+     "NaocOTtnprnT",
+     "ocanmagotroi",
+     "Sbialrapmzox"
+    ],
+    "rows": [
+     "RZILAFAYTLPA",
+     "ARDZAIDPALAM",
+     "CZONSAROYAVB",
+     "TOITTZOPACOC",
+     "SIGASOMRBZNH",
+     "FMONDATDIARI",
+     "OROIBAHAOZPI",
+     "TNABRVIXGASD",
+     "OIIITTPALOAI",
+     "ABAMOOOACUCA",
+     "NAOCOTTNPRNT",
+     "OCANMAGOTROI",
+     "SBIALRAPMZOX"
+    ],
+    "disagreements": [
+     {
+      "row": 12,
+      "col": 1,
+      "peterson": "b",
+      "kondor": "h",
+      "unverified": true,
+      "comment": "Peterson (Sloane 3191 transcription) and kondor.de disagree"
+     },
+     {
+      "row": 3,
+      "col": 8,
+      "note": "Peterson's HTML source has 'q' (ToiTtzoPqcoC); his typeset image of the MS and kondor.de both show 'a'. 'a' used."
+     }
+    ]
+   },
+   "Water": {
+    "positionInGreatTable": "top-right",
+    "rowsOriginalCase": [
+     "TaOAdvptDnim",
+     "aabcooromebb",
+     "TogconxmalGm",
+     "nhodDialeaoc",
+     "patAxioVsPsN",
+     "SaaixaarVroi",
+     "mpharslgaiol",
+     "MamgloinLirx",
+     "olaaDngaTapa",
+     "paLcoidxPacn",
+     "ndazNziVaasa",
+     "iidPonsdAspi",
+     "xrinhtarndiL"
+    ],
+    "rows": [
+     "TAOADVPTDNIM",
+     "AABCOOROMEBB",
+     "TOGCONXMALGM",
+     "NHODDIALEAOC",
+     "PATAXIOVSPSN",
+     "SAAIXAARVROI",
+     "MPHARSLGAIOL",
+     "MAMGLOINLIRX",
+     "OLAADNGATAPA",
+     "PALCOIDXPACN",
+     "NDAZNZIVAASA",
+     "IIDPONSDASPI",
+     "XRINHTARNDIL"
+    ],
+    "disagreements": []
+   },
+   "Earth": {
+    "positionInGreatTable": "bottom-left",
+    "rowsOriginalCase": [
+     "bOaZaRophaRa",
+     "uNnaxoPSondn",
+     "aigranoomagg",
+     "orpmningbeal",
+     "rsOnizirlemv",
+     "izinrCziaMhl",
+     "MOrdialhCtGa",
+     "Ocanchiasomt",
+     "Arbizmiilpiz",
+     "OpanalamSmaP",
+     "dOloPinianba",
+     "rxpaocsizixp",
+     "axtirVastrim"
+    ],
+    "rows": [
+     "BOAZAROPHARA",
+     "UNNAXOPSONDN",
+     "AIGRANOOMAGG",
+     "ORPMNINGBEAL",
+     "RSONIZIRLEMV",
+     "IZINRCZIAMHL",
+     "MORDIALHCTGA",
+     "OCANCHIASOMT",
+     "ARBIZMIILPIZ",
+     "OPANALAMSMAP",
+     "DOLOPINIANBA",
+     "RXPAOCSIZIXP",
+     "AXTIRVASTRIM"
+    ],
+    "disagreements": [],
+    "notes": [
+     "row 7 col 0: Peterson's image shows an odd glyph (circle with dot) here, the comment text gives 'O'; Crowley prints a reversed letter (R) in this square; TFR 1584 prints 'Æ'."
+    ]
+   },
+   "Fire": {
+    "positionInGreatTable": "bottom-right",
+    "rowsOriginalCase": [
+     "donpaTdanVaa",
+     "oloaGeoobaua",
+     "OPamnoVGmdnm",
+     "aplsTedecaop",
+     "scmioonAmlox",
+     "VarsGdLbriap",
+     "oiPteaapDoce",
+     "psuacNrZirZa",
+     "siodaoinrzfm",
+     "daltTdnadire",
+     "dixomonsiosp",
+     "OoDpziApanli",
+     "rgoannPACrar"
+    ],
+    "rows": [
+     "DONPATDANVAA",
+     "OLOAGEOOBAUA",
+     "OPAMNOVGMDNM",
+     "APLSTEDECAOP",
+     "SCMIOONAMLOX",
+     "VARSGDLBRIAP",
+     "OIPTEAAPDOCE",
+     "PSUACNRZIRZA",
+     "SIODAOINRZFM",
+     "DALTTDNADIRE",
+     "DIXOMONSIOSP",
+     "OODPZIAPANLI",
+     "RGOANNPACRAR"
+    ],
+    "disagreements": []
+   }
+  },
+  "blackCross": {
+   "verticalColumn_rows0to12": "EXARP.HCOMA.. (top half: e x a r p _ h C o m a, row 13 is the cross bar)",
+   "horizontalBar": "MOTIB..ATNAN.NANTA..BITOM (as printed, read in the MS layout)"
+  }
+ },
+ "dee1584": {
+  "_about": "Original Great Table, received 25 June 1584 in Cracow. Base grid: kondor.de transcription. Checked square by square against the dictation printed in Casaubon, True & Faithful Relation (1659) pp.175-177 (archive.org scans, read by eye). Squares where they disagree or the scan is illegible carry unverified:true. 1584 layout: Air top-left, Earth top-right, Fire bottom-left, Water bottom-right. Element labels follow the GD attribution of each tablet (identified by its three Holy Names). Dee's own 1587 manuscript assigns the tablets to directions differently: Air=East, Water=West, Earth=South, Fire=North.",
+  "tablets": {
+   "Air": {
+    "positionInGreatTable": "top-left",
+    "rowsOriginalCase": [
+     "rZilafAutlpa",
+     "ardZaidpaLam",
+     "czonsaroYaub",
+     "ToiTtxoPacoC",
+     "Sigasomrbznh",
+     "fmondaTdiari",
+     "oroibAhaozpi",
+     "cNabrVixgazd",
+     "OiiitTpalOai",
+     "AbamoooaCuca",
+     "NaocOTtnpraT",
+     "ocanmagotroi",
+     "Shialrapmzox"
+    ],
+    "rows": [
+     "RZILAFAUTLPA",
+     "ARDZAIDPALAM",
+     "CZONSAROYAUB",
+     "TOITTXOPACOC",
+     "SIGASOMRBZNH",
+     "FMONDATDIARI",
+     "OROIBAHAOZPI",
+     "CNABRVIXGAZD",
+     "OIIITTPALOAI",
+     "ABAMOOOACUCA",
+     "NAOCOTTNPRAT",
+     "OCANMAGOTROI",
+     "SHIALRAPMZOX"
+    ],
+    "tfr1659Rows": [
+     "rZilafAutlpa",
+     "ardZaidpaLam",
+     "cZonsavoYaub",
+     "ToiTtXoPacoC",
+     "Sigasomrbznh",
+     "fmondaTdiari",
+     "oroibAhaoZpi",
+     "CnabrVixgazd",
+     "OiiitTpalOai",
+     "AbamoooaCvca",
+     "NaocOTtnpraT",
+     "Ocanmagotroi",
+     "Shialrapmzox"
+    ],
+    "disagreements": [
+     {
+      "row": 2,
+      "col": 6,
+      "kondor": "r",
+      "tfr1659": "v",
+      "unverified": true
+     }
+    ]
+   },
+   "Water": {
+    "positionInGreatTable": "bottom-right",
+    "rowsOriginalCase": [
+     "TaOAduptDnim",
+     "oalcooromebb",
+     "TagconxmalGm",
+     "nhodDialeaoc",
+     "patAxioVsPsN",
+     "SaaizaarVroi",
+     "mpharslgaiol",
+     "MamgloinLirx",
+     "olaaDagaTapa",
+     "paLcoidxPacn",
+     "ndazNziVaasa",
+     "iidPonsdAspi",
+     "xrinhtarndiL"
+    ],
+    "rows": [
+     "TAOADUPTDNIM",
+     "OALCOOROMEBB",
+     "TAGCONXMALGM",
+     "NHODDIALEAOC",
+     "PATAXIOVSPSN",
+     "SAAIZAARVROI",
+     "MPHARSLGAIOL",
+     "MAMGLOINLIRX",
+     "OLAADAGATAPA",
+     "PALCOIDXPACN",
+     "NDAZNZIVAASA",
+     "IIDPONSDASPI",
+     "XRINHTARNDIL"
+    ],
+    "tfr1659Rows": [
+     "TaOAduptDnIm",
+     "aabcooromebb",
+     "TogconxmalGm",
+     "nhodDialeaoc",
+     "pacAxioVsPs?",
+     "SaaixaarVroi",
+     "mpharslgaiol",
+     "MamgloinLirx",
+     "olaaDagaTapa",
+     "paLcoidxPacn",
+     "ndazNxiVaasa",
+     "iidPonsdaspi",
+     "xriihtarndi?"
+    ],
+    "disagreements": [
+     {
+      "row": 1,
+      "col": 0,
+      "kondor": "o",
+      "tfr1659": "a",
+      "unverified": true
+     },
+     {
+      "row": 1,
+      "col": 2,
+      "kondor": "l",
+      "tfr1659": "b",
+      "unverified": true
+     },
+     {
+      "row": 2,
+      "col": 1,
+      "kondor": "a",
+      "tfr1659": "o",
+      "unverified": true
+     },
+     {
+      "row": 4,
+      "col": 2,
+      "kondor": "t",
+      "tfr1659": "c",
+      "unverified": true
+     },
+     {
+      "row": 4,
+      "col": 11,
+      "kondor": "N",
+      "tfr1659": "illegible in scan",
+      "unverified": true
+     },
+     {
+      "row": 5,
+      "col": 4,
+      "kondor": "z",
+      "tfr1659": "x",
+      "unverified": true
+     },
+     {
+      "row": 10,
+      "col": 5,
+      "kondor": "z",
+      "tfr1659": "x",
+      "unverified": true
+     },
+     {
+      "row": 12,
+      "col": 3,
+      "kondor": "n",
+      "tfr1659": "i",
+      "unverified": true
+     },
+     {
+      "row": 12,
+      "col": 11,
+      "kondor": "L",
+      "tfr1659": "illegible in scan",
+      "unverified": true
+     }
+    ]
+   },
+   "Earth": {
+    "positionInGreatTable": "top-right",
+    "rowsOriginalCase": [
+     "bOaZaRophaRa",
+     "uNnaxoPSondn",
+     "aigranoomagg",
+     "orpmningbeal",
+     "rsOnizirlemu",
+     "izinrCziaMhl",
+     "MOrdialhCtGa",
+     "ROcanchiasom",
+     "Arbizmiilpiz",
+     "OpanaBamSmaL",
+     "dOloPinianba",
+     "rxpaocsizixp",
+     "axtirVastrim"
+    ],
+    "rows": [
+     "BOAZAROPHARA",
+     "UNNAXOPSONDN",
+     "AIGRANOOMAGG",
+     "ORPMNINGBEAL",
+     "RSONIZIRLEMU",
+     "IZINRCZIAMHL",
+     "MORDIALHCTGA",
+     "ROCANCHIASOM",
+     "ARBIZMIILPIZ",
+     "OPANABAMSMAL",
+     "DOLOPINIANBA",
+     "RXPAOCSIZIXP",
+     "AXTIRVASTRIM"
+    ],
+    "tfr1659Rows": [
+     "bOaZaRophaRa",
+     "uNnaxoPSondn",
+     "aigranoomagg",
+     "orpmningbeal",
+     "rsOnizirlemu",
+     "izinrCziaMhl",
+     "mordialhCtGa",
+     "ÆOcanchiasom",
+     "Arbizmiilpiz",
+     "OpanalamSmaL",
+     "dOlopinianba",
+     "rxpaocsizixp",
+     "axtirVastrim"
+    ],
+    "disagreements": [
+     {
+      "row": 7,
+      "col": 0,
+      "kondor": "R",
+      "tfr1659": "Æ",
+      "unverified": true
+     },
+     {
+      "row": 9,
+      "col": 5,
+      "kondor": "B",
+      "tfr1659": "l",
+      "unverified": true
+     }
+    ]
+   },
+   "Fire": {
+    "positionInGreatTable": "bottom-left",
+    "rowsOriginalCase": [
+     "donpaTdanVaa",
+     "oloaGeoobaua",
+     "OPamnoOGmdnm",
+     "aplsTedecaop",
+     "scmioonAmlox",
+     "VarsGdLbriap",
+     "oiPteaapDoce",
+     "psuacnrZirZa",
+     "Siodaoinrzfm",
+     "daltTdnadire",
+     "dixomonsiosp",
+     "OoDpziApanli",
+     "rgoannPACrar"
+    ],
+    "rows": [
+     "DONPATDANVAA",
+     "OLOAGEOOBAUA",
+     "OPAMNOOGMDNM",
+     "APLSTEDECAOP",
+     "SCMIOONAMLOX",
+     "VARSGDLBRIAP",
+     "OIPTEAAPDOCE",
+     "PSUACNRZIRZA",
+     "SIODAOINRZFM",
+     "DALTTDNADIRE",
+     "DIXOMONSIOSP",
+     "OODPZIAPANLI",
+     "RGOANNPACRAR"
+    ],
+    "tfr1659Rows": [
+     "donpaTdanVa?",
+     "oloaGeooba?i",
+     "oPamnoOGmdnm",
+     "aplsTedecaop",
+     "scmioonAmlox",
+     "VarsGdLbriap",
+     "oiPteaapdoce",
+     "psuacnrZirZa",
+     "Siodaoinrzfm",
+     "daltTdnadire",
+     "dixomonsiosp",
+     "OoDpziApanli",
+     "rgoannQACrar"
+    ],
+    "disagreements": [
+     {
+      "row": 0,
+      "col": 11,
+      "kondor": "a",
+      "tfr1659": "illegible in scan",
+      "unverified": true
+     },
+     {
+      "row": 1,
+      "col": 10,
+      "kondor": "u",
+      "tfr1659": "illegible in scan",
+      "unverified": true
+     },
+     {
+      "row": 1,
+      "col": 11,
+      "kondor": "a",
+      "tfr1659": "i",
+      "unverified": true
+     },
+     {
+      "row": 12,
+      "col": 6,
+      "kondor": "P",
+      "tfr1659": "Q",
+      "unverified": true
+     }
+    ]
+   }
+  },
+  "blackCrossKondor": {
+   "column12": "e.xarp.h.Coma.a.moCh.p.raxe",
+   "row13": "motib..aTnan.nanTa..bitom"
+  }
+ }
+}
